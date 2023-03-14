@@ -11,5 +11,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## [Contact me](mailto:victorsanantonio@hotmail.com)
-![Mail me](https://user-images.githubusercontent.com/82669128/224992652-4b8dbeb0-b981-44ef-ae61-39ae803a6b06.gif)
+## 📩 [Contact me](mailto:victorsanantonio@hotmail.com) 📨
