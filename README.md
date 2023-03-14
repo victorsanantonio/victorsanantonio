@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **victorsanantonio/victorsanantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![gif Hello World.](https://user-images.githubusercontent.com/82669128/224987524-3cbb8bb5-8db2-4065-870b-7020d577a647.gif)
 
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
