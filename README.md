@@ -13,4 +13,4 @@
 
 ## 📩 Contact me 📩
 - Send me a mail 👉 [victorsanantonio@hotmail.com](mailto:victorsanantonio@hotmail.com)
-- My LinkedIn 👉 <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+- My LinkedIn 👉 <a href="https://www.linkedin.com/in/victorsanantoniosanmartin/" <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
