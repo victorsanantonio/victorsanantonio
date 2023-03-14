@@ -3,7 +3,7 @@
 # Hi! 👋 I'm Víctor:
 - 👾 Backend developer.
 - 🆙 Constantly learning.
-##⚔️ My skills:
+## ⚔️ My skills:
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 - 🔭 I’m currently working on ...
