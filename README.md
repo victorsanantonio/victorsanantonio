@@ -11,6 +11,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 📩 [Contact me](mailto:victorsanantonio@hotmail.com) 📨
-- ✉️: [victorsanantonio@hotmail.com](mailto:victorsanantonio@hotmail.com)
-- [Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [in/victorsanantoniosanmartin](https://www.linkedin.com/in/victorsanantoniosanmartin/)
+## 📩 Contact me 📨
+- ✉️: ![victorsanantonio@hotmail.com](mailto:victorsanantonio@hotmail.com)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [in/victorsanantoniosanmartin](https://www.linkedin.com/in/victorsanantoniosanmartin/)
