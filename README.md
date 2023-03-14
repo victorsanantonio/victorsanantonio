@@ -13,4 +13,4 @@
 
 ## 📩 Contact me 📨
 - ✉️: [victorsanantonio@hotmail.com](mailto:victorsanantonio@hotmail.com)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- <a href="https://linkedin.com/in/victorsanantoniosanmartin" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Víctor San Antonio" /></a>
