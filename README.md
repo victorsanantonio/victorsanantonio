@@ -3,6 +3,7 @@
 # Hi! 👋 I'm Víctor:
 - 👾 Backend developer.
 - 🆙 Always learning.
+
 ## ⚔️ My skills 🛡️
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -10,5 +11,5 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## Contact me
-![Mail me](https://user-images.githubusercontent.com/82669128/224992163-4bd3ba30-304c-4c67-9438-e494ddecde27.gif)
+## [Contact me](mailto:victorsanantonio@hotmail.com)
+![Mail me](https://user-images.githubusercontent.com/82669128/224992652-4b8dbeb0-b981-44ef-ae61-39ae803a6b06.gif)
