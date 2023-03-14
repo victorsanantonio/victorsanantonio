@@ -1,10 +1,11 @@
-### Hi there 👋
-
-
-**victorsanantonio/victorsanantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![gif Hello World.](https://user-images.githubusercontent.com/82669128/224987524-3cbb8bb5-8db2-4065-870b-7020d577a647.gif)
 
-Here are some ideas to get you started:
+### Hi! I'm Víctor:
+
+- 👾 Backend developer.
+- 🆙 Constantly learning.
+- ⚔️ My skills:
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
