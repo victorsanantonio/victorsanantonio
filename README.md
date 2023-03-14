@@ -11,6 +11,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 📩 Contact me 📨
-- ✉️: [victorsanantonio@hotmail.com](mailto:victorsanantonio@hotmail.com)
+## 📩 Contact me 📩
+- : [victorsanantonio@hotmail.com](mailto:victorsanantonio@hotmail.com)
 - <a href="https://linkedin.com/in/victorsanantoniosanmartin" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Víctor San Antonio" /></a>
