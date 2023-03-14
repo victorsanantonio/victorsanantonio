@@ -13,4 +13,5 @@
 
 ## 📩 Contact me 📩
 - : [victorsanantonio@hotmail.com](mailto:victorsanantonio@hotmail.com)
-- <a href="https://linkedin.com/in/victorsanantoniosanmartin" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Víctor San Antonio" /></a>
+- <a href="https://linkedin.com/in/victorsanantoniosanmartin" target="_blank"><src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Víctor San Antonio" /></a>
+![email](https://user-images.githubusercontent.com/82669128/224998747-a09c28dc-dd5e-461e-983a-f699f7763dd0.png)
