@@ -1,6 +1,5 @@
 # ¡Hola! 👋 Soy Víctor:
-- 👾 Desarrollador backend.
-- 🆙 Siempre tratando de aprender.
+#### 🐍 Desarrollador back-end Python.
 
 ## ⚔️ Mis habilidades 🛡️
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
