@@ -1,5 +1,5 @@
-# ¡Hola! 👋 Soy Víctor:
-#### 🐍 Desarrollador back-end Python.
+# ¡Hola! 👋 Soy Víctor San Antonio:
+### Desarrollador back-end Python 🐍.
 
 ## ⚔️ Mis habilidades 🛡️
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
