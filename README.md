@@ -10,7 +10,6 @@ Después de presentar mi proyecto final, comencé mi vida laboral. A día de hoy
 ![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## Contáctame
 - Envíame un mail 👉 [victorsanantonio@hotmail.com](mailto:victorsanantonio@hotmail.com)
