@@ -3,7 +3,7 @@
 
 ✒️ En 2021 terminé mis estudios como técnico superior en Desarrollo de Aplicaciones Multiplataforma. Tuve la oportunidad de formarme en tecnologías como Java, MySQL, C#, HTML y CSS.
 
-Después de presentar mi proyecto final, comencé mi vida laboral. A día de hoy, cuento con más de un año de experiencia en el desarrollo de microservicios back end con Python y Flask.
+Después de presentar mi proyecto final, comencé mi vida laboral. A día de hoy, cuento con más de tres años de experiencia en el desarrollo de microservicios back end con Python y Flask.
 
 ## Mis habilidades
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
